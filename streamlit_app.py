@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streaml
+st.title("Checklist PDI - Control de Calidad")
+
+st.write("La app está funcionando correctamente 🚀")
